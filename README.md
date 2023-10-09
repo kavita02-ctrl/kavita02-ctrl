@@ -3,15 +3,14 @@
 Hello there! I'm Kavita Dhar, a passionate and versatile tech enthusiast with a strong foundation in cybersecurity and software development. With a solid educational background and hands-on experience, I'm dedicated to exploring and mastering the intricacies of the digital world.
 
 🎓 Education:
+Diploma In Computer Engineering
+Undergraduate(BTech) in Computer Science and Engineering
 
-MSc in Cyber Security from IIT Bombay, where I honed my skills in securing digital environments and understanding the complexities of modern threats.
-🚀 Technical Proficiencies:
 
 Languages: C++, Java, Python, and Visual Basic, enabling me to develop efficient and robust software solutions.
 Databases: Proficient in MySQL and Database Management Systems (DBMS) for organized data storage and retrieval.
 💼 Professional Highlights:
 
-Microsoft Internship: Gained valuable industry insights and practical experience during my internship at Microsoft, contributing to real-world projects.
 Web Development: Adept in building responsive and engaging websites, leveraging HTML, CSS, and JavaScript to create seamless user experiences.
 APDCL: Leveraged my skills to make a meaningful impact during my time at APDCL, demonstrating a commitment to applying technology for real-world solutions.
 🌐 Online Presence:
