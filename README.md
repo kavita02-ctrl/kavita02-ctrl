@@ -5,6 +5,7 @@ Hello there! I'm Kavita Dhar, a passionate and versatile tech enthusiast with a 
 
 🎓 Education:
 Undergraduate(BTech) in Computer Science and Engineering
+
 Languages: C++, Java, Python, and Visual Basic, enabling me to develop efficient and robust software solutions.
 Databases: Proficient in MySQL and Database Management Systems (DBMS) for organized data storage and retrieval.
 
