@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Kabita Dhar]
+# Hi 👋, I'm Kabita Dhar
 
 A passionate Web Developer, Software Developer, and Tech Enthusiast.
 
@@ -19,5 +19,5 @@ A passionate Web Developer, Software Developer, and Tech Enthusiast.
 </p>
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/kavita-dhar-5707a6228/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/your-github-username)
