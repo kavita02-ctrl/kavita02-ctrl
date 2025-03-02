@@ -19,5 +19,5 @@ A passionate Web Developer, Software Developer, and Tech Enthusiast.
 </p>
 
 ## 📫 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/kavita-dhar-5707a6228/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavita-dhar-5707a6228/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/your-github-username)
