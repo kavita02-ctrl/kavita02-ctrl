@@ -1,20 +1,23 @@
-🔐 Cybersecurity Enthusiast | 🖥️ Software Developer | 🌐 Web Developer
+# Hi 👋, I'm [Kabita Dhar]
 
-Hello there! I'm Kavita Dhar, a passionate and versatile tech enthusiast with a strong foundation in Data Structures and Algorithms, I'm dedicated to exploring and mastering the intricacies of the digital world.
+A passionate Web Developer, Software Developer, and Tech Enthusiast.
 
+- 🌱 I’m currently learning **Machine Learning & Web Development**
+- 💬 Ask me about **Python, JavaScript, React, and Open Source**
+- 📫 How to reach me: [kabitapv2610.com](mailto:your-email@example.com)
+- ⚡ Fun fact: I love to code and explore new technologies.
 
-🎓 Education:
-Undergraduate(BTech) in Computer Science and Engineering
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
 
-Languages: C++, Java, Python, and Visual Basic, enabling me to develop efficient and robust software solutions.
-Databases: Proficient in MySQL and Database Management Systems (DBMS) for organized data storage and retrieval.
+## 🚀 Languages and Tools:
+<p>
+   <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" />
+   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
+   <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
+   <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" />
+</p>
 
-
-Learning and growing.
-
-🌐 Online Presence:
-Connect with me on LinkedIn to stay updated on my latest endeavors and contributions in the tech space.
-Passionate about cybersecurity, software development, and creating innovative solutions, I'm excited to contribute my skills and knowledge to the ever-evolving world of technology. Let's connect, collaborate, and create together!
-
-
-Feel free to reach out at dharkavita123@gmail.com
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/your-github-username)
