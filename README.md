@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kabita Dhar
 
 Passionate Web Developer and Tech Enthusiast, exploring AI and Open Source.
-Currently working on Computational Offloading using 5G and AI-driven projects.
+
 
 - 🌱 I’m currently exploring **Machine Learning**
 - 💬 Ask me about **Python, JavaScript, React, and Open Source**
