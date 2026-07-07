@@ -17,10 +17,10 @@
 ```yaml
 Name: Kabita Dhar
 Pronouns: She/Her
-Occupation: AI/ML Engineer
+Occupation: Engineer
 Location: Assam
 Education: BTech CSE (NERIST) | Diploma CSE (PCPS Girls' Polytechnic)
-Interests: GNNs, Reinforcement Learning, Cybersecurity, Generative AI
+Interests: Software Development, Reinforcement Learning, Cybersecurity, Generative AI
 Currently-Learning: Advanced Deep Learning, MLOps
 Hobbies: Coding, Exploring AI, Reading
 Ask me about: Python, C++, Machine Learning, AI Systems
