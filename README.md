@@ -1,4 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=420&lines=Hi+%F0%9F%91%8B+I'm+Kabita+Dhar;Welcome+to+my+profile" alt="Typing SVG" /></a>
@@ -13,6 +12,8 @@
 </p> -->
 
 <img align="right" alt="Coding GIF" width="400" height="220" src="https://i.gifer.com/5JmN.gif">
+
+![Banner](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ```yaml
 Name: Kabita Dhar
