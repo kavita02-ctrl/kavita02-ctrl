@@ -98,12 +98,12 @@ Dedicated AI/ML Engineer with a strong foundation in machine learning research, 
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/kavitadhar02?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" />
 </div>
 
 - Focus: Data Structures, Algorithms, and Problem Solving
 - Interests: Arrays, Trees, Graphs, Dynamic Programming, and SQL
-- Goal: Improve consistency, sharpen logical thinking, and strengthen interview preparation
+- Goal: Improve consistency, sharpen logical thinking, and strengthen interview preparation -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Thanks%20for%20visiting!&fontColor=FFD700&fontSize=40&animation=blinking" style="display:block; margin:auto;" />
