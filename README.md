@@ -90,10 +90,20 @@ Dedicated AI/ML Engineer with a strong foundation in machine learning research, 
 - Secured 1st place in Annual College Hackathon (HackShristi) among 30 teams
 - Participated at the All-India level in Smart India Hackathon (SIH)
 
-## 📊 LeetCode Stats
+## 📊 LeetCode Journey
+
+<p align="left">
+  <a href="https://leetcode.com/u/kavitadhar02/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/kavitadhar02?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" />
 </div>
+
+- Focus: Data Structures, Algorithms, and Problem Solving
+- Interests: Arrays, Trees, Graphs, Dynamic Programming, and SQL
+- Goal: Improve consistency, sharpen logical thinking, and strengthen interview preparation
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Thanks%20for%20visiting!&fontColor=FFD700&fontSize=40&animation=blinking" style="display:block; margin:auto;" />
