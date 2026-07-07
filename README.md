@@ -44,24 +44,24 @@ Reach me at: kavitapv2610@gmail.com
 
 <br>
 
-## 🌟 About Me
+## About Me
 
 Dedicated AI/ML Engineer with a strong foundation in machine learning research, software engineering, and system design. I enjoy building intelligent systems that connect advanced algorithms with real-world deployment, especially in areas like GNNs, reinforcement learning, cybersecurity, and generative AI.
 
-## 🎓 Education
+## Education
 
 - BTech in Computer Science and Engineering, NERIST — August 2023 to June 2026
 - Diploma in Computer Science and Engineering, PCPS Girls’ Polytechnic, Guwahati — July 2020 to June 2023
 
 
-## 💼 Internship Experience
+## Internship Experience
 
 - CyberSecurity Intern, MNNIT Allahabad — May 2025 to June 2025
   - Developed a Hybrid AI Against Ransomware solution using CNN, MCTS, and GNN with 99% accuracy on real-time threat datasets.
 - Full Stack Development Intern, IIT Guwahati — June 2023 to August 2023
   - Built the official IIT Guwahati website architecture for 5,000+ students and faculty, reducing content update time by 40%.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -76,14 +76,14 @@ Dedicated AI/ML Engineer with a strong foundation in machine learning research, 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-## 🏅 Certifications
+## Certifications
 
 - Software Engineering Job Simulation, JPMorgan Chase & Co. — October 2025
 - Cloud Infrastructure Generative AI Professional, Oracle — October 2025
 - Amazon ML Summer School, Amazon — May 2024
 - Ethical Hacking Workshop, IIT Bombay — June 2021
 
-## 🌈 Achievements
+## Achievements
 
 - Training and Placement Secretary, NERIST
 - National Cadet Corps, NERIST
@@ -91,13 +91,13 @@ Dedicated AI/ML Engineer with a strong foundation in machine learning research, 
 - Secured 1st place in Annual College Hackathon (HackShristi) among 30 teams
 - Participated at the All-India level in Smart India Hackathon (SIH)
 
-## 📊 LeetCode Journey
+<!-- ## 📊 LeetCode Journey
 
 <p align="left">
   <a href="https://leetcode.com/u/kavitadhar02/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
-</p>
+</p> -->
 
 <!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/kavitadhar02?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" />
