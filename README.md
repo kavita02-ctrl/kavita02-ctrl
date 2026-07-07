@@ -52,16 +52,6 @@ Dedicated AI/ML Engineer with a strong foundation in machine learning research, 
 - BTech in Computer Science and Engineering, NERIST — August 2023 to June 2026
 - Diploma in Computer Science and Engineering, PCPS Girls’ Polytechnic, Guwahati — July 2020 to June 2023
 
-## 🚀 Featured Projects
-
-- Federated Attention-Based Graph Neural Network for Malicious User Detection
-  - Built a privacy-preserving federated attention-based GNN framework for detecting malicious users in dynamic cognitive radio networks.
-- Taxi Route Optimization with Reinforcement Learning
-  - Implemented a Q-learning agent for the Taxi-v3 environment to optimize navigation and passenger pickup/drop-off.
-- Real-Time Network Threat Detection System
-  - Developed a Python-based anomaly detection pipeline exported to ONNX and deployed through a low-latency C++ inference system.
-- Sudoku Solver
-  - Created a C++ backtracking-based solver with real-time user input support.
 
 ## 💼 Internship Experience
 
@@ -100,11 +90,10 @@ Dedicated AI/ML Engineer with a strong foundation in machine learning research, 
 - Secured 1st place in Annual College Hackathon (HackShristi) among 30 teams
 - Participated at the All-India level in Smart India Hackathon (SIH)
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavita02-ctrl&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita02-ctrl&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/kavitadhar02?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&width=200&color=000000&text=Thanks%20for%20visiting!&fontColor=FFD700&fontSize=40&animation=blinking" style="display:block; margin:auto;" />
