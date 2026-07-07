@@ -4,13 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=420&lines=Hi+%F0%9F%91%8B+I'm+Kabita+Dhar;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">Bridging research and production-ready AI systems</h3>
+<h3 align="center">Learning and Growing</h3>
 
 <br>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github.com/kavita02-ctrl.png" width="180" alt="Kabita Dhar" />
-</p>
+</p> -->
 
 <img align="right" alt="Coding GIF" width="400" height="220" src="https://i.gifer.com/5JmN.gif">
 
